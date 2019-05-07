@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/uno.png</file>
+        <file>images/dos.png</file>
+        <file>images/vacio.png</file>
+        <file>images/quince.png</file>
+        <file>images/catorce.png</file>
+        <file>images/trece.png</file>
+        <file>images/doce.png</file>
+        <file>images/once.png</file>
+        <file>images/diez.png</file>
+        <file>images/nueve.png</file>
+        <file>images/ochopng</file>
+        <file>images/siete.png</file>
+        <file>images/seis.png</file>
+        <file>images/cinco.png</file>
+        <file>images/cuatro.png</file>
+        <file>images/tres.png</file>
+    </qresource>
+</RCC>
